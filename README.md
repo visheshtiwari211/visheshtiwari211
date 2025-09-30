@@ -29,14 +29,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- [Newsly](https://github.com/visheshtiwari211/Newsly) – Real-time news, elegant design, powered by Compose.
-- [Jar-Prototype](https://github.com/visheshtiwari211/Jar-Prototype) – A modern assistant prototype for Android.
-- [composelife](https://github.com/visheshtiwari211/composelife) – Cellular automata fun, built with Compose.
-
----
-
 ## 📫 Connect with Me
 
 - 📧 [visheshtiwari211@gmail.com](mailto:visheshtiwari211@gmail.com)
